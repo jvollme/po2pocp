@@ -8,7 +8,7 @@ usage: ```po2pocp -i <input.proteinortho> \[-o output.table\]```
 
 This tool was originally created for lab-internal use and not with user friendliness or adaptiveness in mind. It is published here, to enable reproducability of any of our research projects that may have been using this script.
 
-More flexible versions may be uploaded whenever I have time for it.
+More flexible versions may be uploaded whenever I have time for it. For any problems or questions about the usage, please create an Issue on this repository.
 
 [proteinortho5]: https://www.bioinf.uni-leipzig.de/Software/proteinortho/
 [pocp]:http://jb.asm.org/content/196/12/2210.short
